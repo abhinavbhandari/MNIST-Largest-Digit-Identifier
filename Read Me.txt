@@ -1,0 +1,7 @@
+To run the Fully Connected Neural Netowrk - Please open the file that says Fully_Connected_Neural_Network.
+
+To run the CNN
+1. Call on the imports, and follow similar instructions above where all the cells should be run in order UP TO the cell with "def baseline_model".
+2. Manually manipulate the parameters for both baseline_model and larger_model.
+2. Run the cell with def baseline_model(), and larger_model() 
+3. Choose which model to run with the number of epochs (One cell runs the baseline_model, the next cell runs the larger_model).
